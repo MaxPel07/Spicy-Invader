@@ -1,0 +1,8 @@
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\bin\Debug\ProjectSpicyInvader.exe.config
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\bin\Debug\ProjectSpicyInvader.exe
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\bin\Debug\ProjectSpicyInvader.pdb
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\obj\Debug\ProjectSpicyInvader.csproj.AssemblyReference.cache
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\obj\Debug\ProjectSpicyInvader.csproj.SuggestedBindingRedirects.cache
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\obj\Debug\ProjectSpicyInvader.csproj.CoreCompileInputs.cache
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\obj\Debug\ProjectSpicyInvader.exe
+D:\Semestre 2\I226_progObjet\SpicyInvader\ProjectSpicyInvader\obj\Debug\ProjectSpicyInvader.pdb
