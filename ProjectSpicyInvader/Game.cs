@@ -9,14 +9,16 @@ using System.Threading.Tasks;
 
 namespace ProjectSpicyInvader
 {
-    internal class Program
+    internal class Game
     {
         static void Main(string[] args)
         {
             do
             {
                 ShowMenu();
-                
+
+                SpaceShip playerShip = new SpaceShip(speedPixelPerSecond : 10, lives : 3);
+
             } while (true);
         }
 
@@ -85,7 +87,8 @@ namespace ProjectSpicyInvader
         {
             Console.Clear();
             Console.WriteLine(
-                "Spicy Invader est un jeu basé sur le jeu, connu mondialement, Space Invaders \n");
+                "Spicy Invader est un jeu basé sur le jeu, connu mondialement, Space Invaders \n" +
+                "\n Appuyer sur ENTER touche pour quitter");
         }
     }
 }
